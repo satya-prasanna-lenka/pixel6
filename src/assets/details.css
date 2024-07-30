@@ -104,3 +104,11 @@
     background-color: var(--line-border-empty);
     cursor: not-allowed;
 }
+
+
+/* FOR MOBILE */
+@media only screen and (max-width: 765px) {
+    .stepper .contaienr {
+        width: 95%;
+    }
+}
